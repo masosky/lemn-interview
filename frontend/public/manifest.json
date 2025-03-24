@@ -1,0 +1,20 @@
+{
+  "short_name": "Lemn AI",
+  "name": "Lemn AI Agent Platform",
+  "icons": [
+    {
+      "src": "lemon.jpeg",
+      "sizes": "225x225",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "lemon.jpeg",
+      "type": "image/jpeg",
+      "sizes": "225x225"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4caf50",
+  "background_color": "#ffffff"
+}
