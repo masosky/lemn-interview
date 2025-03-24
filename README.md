@@ -87,27 +87,22 @@ yarn start
 
 ## 🏆 Technical Tasks
 
-### **1️⃣ Backend Task (Express + Prisma + TSOA)**
+### **1 Backend Task (Express + Prisma + TSOA)**
 
 - Implement an endpoint `POST /api/books` to add a new book.
 - Ensure validation (title, author, price, stock).
 
-### **2️⃣ Frontend Task (React + TypeScript)**
-
-- Create a page to list all books.
-- Fetch books from `/api/books` and display them in a grid.
-
-### **3️⃣ Full-Stack Task**
+### **2 Full-Stack Task**
 
 - Implement a "Add Book" page with a form to add new books.
 - Send data to the backend via `POST /api/books`.
 
-### **4️⃣ Database Schema Expansion Task**
+### **3 Database Schema Expansion Task**
 
 - Extend the **Prisma schema** to include a `Category` model for books.
 - Modify `/api/books` to include category details.
 
-### **5️⃣ Extra Enhancements**
+### **4 Extra Enhancements**
 
 - Add filtering & sorting to the book listing page.
 - Implement pagination for books & orders.
